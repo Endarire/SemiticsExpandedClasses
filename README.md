@@ -52,7 +52,7 @@ _Druid Kits_:
 
 _Thief Kits_:
 
--Seducer (low-skill thief that can charm anything but is incredibly fragile)
+-Seducer (low-skill thief that can charm most creatures but is incredibly fragile)
 -Archer
 -Kensai (gets Critical Strike instead of Use Any Item)
 -Sniper (can backstab with ranged weapons but can't use traps)
