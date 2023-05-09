@@ -1,5 +1,6 @@
 # Semitics's Expanded Classes
 EE &amp; EET-compatible versions of SemiticGod's/SemiticGoddess's class kits.
+
 FORUM: https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod/p1
 
 **As of version 1.134, these are the kits and their notes.**
