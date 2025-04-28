@@ -1,5 +1,5 @@
 # Semitics's Expanded Classes
-EE &amp; EET-compatible versions of SemiticGod's/SemiticGoddess's class kits.
+EE &amp; EET-compatible versions of SemiticGod's/SemiticGoddess's class kits.  Preserved on GitHub with the author's permission.
 
 FORUM: https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod/p1
 
